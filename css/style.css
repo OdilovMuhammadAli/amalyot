@@ -1,0 +1,4 @@
+.grid-ontainer {
+  display: grid;
+  gap: 30px;
+}
