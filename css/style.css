@@ -2,3 +2,7 @@
   display: grid;
   gap: 30px;
 }
+
+.child {
+  background-color: yellow;
+}
