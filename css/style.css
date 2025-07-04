@@ -4,7 +4,7 @@ body {
   box-sizing: border-box;
 }
 
-.grid-ontainer {
+.grid-container {
   display: grid;
   gap: 15px;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
@@ -47,7 +47,7 @@ body {
   grid-row: 1 / 2;
   background: #5840b0;
 }
-.box7:nth-child(7) {
+.box:nth-child(7) {
   grid-column: 1 / 3;
   grid-row: 3 / 4;
   background: #3d3da1;
